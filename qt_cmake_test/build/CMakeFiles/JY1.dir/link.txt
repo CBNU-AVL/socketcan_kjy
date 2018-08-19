@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/JY1.dir/test.cpp.o  -o JY1 -rdynamic 

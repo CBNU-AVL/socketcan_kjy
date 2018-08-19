@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kimjy/qt_cmake_test/joystick.cc
+joystick.hh
+/home/kimjy/qt_cmake_test/joystick.hh
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+iostream
+-
+string
+-
+sstream
+-
+unistd.h
+/home/kimjy/qt_cmake_test/unistd.h
+
+/home/kimjy/qt_cmake_test/joystick.hh
+string
+-
+iostream
+-
+

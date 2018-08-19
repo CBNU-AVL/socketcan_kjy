@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/JY2.dir/test_2.cpp.o  -o JY2 -rdynamic libjoystick.a 

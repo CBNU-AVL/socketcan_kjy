@@ -1,0 +1,5 @@
+/home/kimjy/qt_cmake_test/build/CMakeFiles/JY1.dir
+/home/kimjy/qt_cmake_test/build/CMakeFiles/JY2.dir
+/home/kimjy/qt_cmake_test/build/CMakeFiles/edit_cache.dir
+/home/kimjy/qt_cmake_test/build/CMakeFiles/joystick.dir
+/home/kimjy/qt_cmake_test/build/CMakeFiles/rebuild_cache.dir
